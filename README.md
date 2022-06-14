@@ -3,7 +3,7 @@ MathWorks Excellence in Innovation project
 
 video demonstrating the solution can be found here https://youtu.be/S1a9L4clW38
 
-Need at least Matlab R2021a to work, sorry for the older releases.
+Need at least Matlab R2021a to work (just clone the repo and run the project, the flip at t=10s), sorry for the older releases.
 
 PS: the solution here is functional but the simulink need to be clean a bit.
 
